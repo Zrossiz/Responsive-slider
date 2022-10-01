@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+.slider {
+    border: 2px solid #000000;
+    max-width: 80%;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.slider-line {
+    display: flex;
+    background: orange;
+    transition: all ease 0.5s;
+}
+
+.container-button {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    max-width: 80%;
+}
